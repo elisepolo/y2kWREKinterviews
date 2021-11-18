@@ -4,6 +4,10 @@ body {
     font-family: "Times New Roman", Times, serif;
 }
 
+p {
+    text-align: center;
+}
+
 .box {
     width: 450px;
     background: rgba(87, 89, 88, 0.4);

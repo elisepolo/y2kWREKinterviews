@@ -11,35 +11,9 @@ p {
     text-align: center;
 }
 
-.box {
-    width: 450px;
-    background: rgba(87, 89, 88, 0.4);
-    padding: 40px;
-    text-align: center;
-    margin: auto;
-    margin-top: 5%;
-    color: white;
-}
-
-.box-img {
-    border-radius: 50%;
-    width: 200px;
-    height: 200px;
-}
-
 h1 {
     font-size: 40px;
     letter-spacing: normal;
     font-weight: 100;
     color: #7b68ee;
-}
-
-.box h2 {
-    font-size: 25px;
-    letter-spacing: 3px;
-    font-weight: 100;
-}
-
-.box p {
-    text-align: center
 }
